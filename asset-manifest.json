@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hackder-News-Reader/static/css/main.073c9b0a.css",
+    "main.js": "/Hackder-News-Reader/static/js/main.fbd4ebc2.js",
+    "index.html": "/Hackder-News-Reader/index.html",
+    "main.073c9b0a.css.map": "/Hackder-News-Reader/static/css/main.073c9b0a.css.map",
+    "main.fbd4ebc2.js.map": "/Hackder-News-Reader/static/js/main.fbd4ebc2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.fbd4ebc2.js"
+  ]
+}
